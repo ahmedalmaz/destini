@@ -10,10 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
+  rflutter_alert: ^2.0.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
 flutter:
   uses-material-design: true
